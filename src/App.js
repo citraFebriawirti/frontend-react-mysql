@@ -1,7 +1,9 @@
+import UserList from "./component/UserList";
+
 function App() {
   return (
     <div className="">
-      <h1>Loremmmmmmmmmmmmmmmmmmm</h1>
+      <UserList />
     </div>
   );
 }
